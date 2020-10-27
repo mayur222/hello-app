@@ -1,3 +1,3 @@
 FROM karthick2007/ubuntu-tomcat-postgres
 
-COPY ./webapp/target/webapp.war /usr/local/tomcat/webapps
+COPY ./AVNCommunication-1.0.war /usr/local/tomcat/webapps
